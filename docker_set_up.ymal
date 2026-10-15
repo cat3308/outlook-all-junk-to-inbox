@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  outlook-cleaner:
+    build: .
+    container_name: outlook-cleaner
+    restart: always
+    ports:
+      - "9050:5000"
+    volumes:
+      - ./data:/app/data
