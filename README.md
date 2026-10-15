@@ -1,1 +1,2 @@
-#ah ok this is a project which will just move all your email in junk to inbox
+so this will be a project to fix a issue abour that outlook keep put your email into junk
+so for this you will need to host it on docker 
